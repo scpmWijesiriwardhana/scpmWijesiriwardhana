@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Chamath Wijesiriwardhana</h1>
 <h3 align="center">A passionate Blockchain and DevOps Engineer from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://tenor.com/view/eth-ethereum-gif-21354314.gif" width="200" alt="Ethereum GIF">
-</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <b>"VERO" NFT Marketplace</b></li>
+        <li>🌱 I’m currently learning <b>Blockchain Development</b></li>
+        <li>💬 Ask me about <b>Foundry and DevOps tools</b></li>
+        <li>📫 How to reach me <b>chamathrko@gmail.com</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://tenor.com/view/eth-ethereum-gif-21354314.gif" width="200" alt="Ethereum GIF">
+    </td>
+  </tr>
+</table>
 
-
-- 🔭 I’m currently working on **"VERO" NFT Marketplace**
-
-- 🌱 I’m currently learning **Blockchain Development**
-
-- 💬 Ask me about **Foundry and DevOps tools**
-
-- 📫 How to reach me **chamathrko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
