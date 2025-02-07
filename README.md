@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Blockchain and DevOps Engineer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" alt="Ethereum GIF">
+  <img src="https://media.giphy.com/media/L59K5fl8KeLDi/giphy.gif" width="200" alt="Ethereum GIF">
 </p>
+
 
 - 🔭 I’m currently working on **"VERO" NFT Marketplace**
 
