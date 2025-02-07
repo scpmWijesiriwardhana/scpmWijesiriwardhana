@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Blockchain and DevOps Engineer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L59K5fl8KeLDi/giphy.gif" width="200" alt="Ethereum GIF">
+  <img src="https://tenor.com/view/eth-ethereum-gif-21354314" width="200" alt="Ethereum GIF">
 </p>
 
 
