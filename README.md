@@ -14,8 +14,12 @@
     <td>
       <img src="https://tenor.com/view/eth-ethereum-gif-21354314.gif" width="200" alt="Ethereum GIF">
     </td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRiaHNzN25sNjhrbTVvN3ZwNzI3NjYyNTl3Z3N3bnA2Ym51eHFpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WT9wi81vtEhqt17SE4/giphy.gif" width="200" alt="Ethereum GIF">
+    </td>
   </tr>
 </table>
+
 
 
 <h3 align="left">Connect with me:</h3>
