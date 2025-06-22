@@ -43,8 +43,9 @@
                                       ██║     ██║██║     ██║     ███████╗███████╗██║ ╚████║███████╗
                                       ╚═╝     ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝
                                       
-                                                     🛠️  PIPES • CONTAINERS • CLOUD ☁️
+                                                    
   </pre>
+  <p align="center"> 🛠️  PIPES • CONTAINERS • CLOUD ☁️</p>
 </p>
 </div>
 
