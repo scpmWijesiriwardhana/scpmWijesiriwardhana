@@ -46,7 +46,7 @@
                                                     
   </pre>
   <p align="center"> <pre>
-    🛠️  PIPES • CONTAINERS • CLOUD ☁️
+                                                  🛠️  PIPES • CONTAINERS • CLOUD ☁️
       
     
 </pre>
