@@ -15,7 +15,7 @@
       <img src="https://tenor.com/view/eth-ethereum-gif-21354314.gif" width="200" alt="Ethereum GIF">
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3g5a3Vqb25wbmc1MWN6aTR6NDJncW0xb2o3N25pMzNqbWlhZWl1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KilTDfUC5pmI2HQX3J/giphy.gif" width="200" alt="Ethereum GIF">
+    
     </td>
   </tr>
 </table>
@@ -36,6 +36,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCPMWijesiriwardhana&show_icons=true&locale=en&layout=compact" alt="chamathwijesiriwardhana" /></p>
 
 <p align="center">
+  
   <pre>
 ██████╗ ██╗██████╗ ██████╗ ██╗     ███████╗███╗   ██╗███████╗
 ██╔══██╗██║██╔══██╗██╔══██╗██║     ██╔════╝████╗  ██║██╔════╝
@@ -48,7 +49,6 @@
   </pre>
 </p>
 
-<hr />
 
 
 
