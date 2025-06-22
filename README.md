@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chamath Wijesiriwardhana</h1>
-<h3 align="center">A passionate Blockchain and DevOps Engineer from Sri Lanka</h3>
+<h1 align="center"👋 Hi, I’m Chamath – aka Pipelinelord 🛠️</h1>
+<h3 align="center">I'm a DevOps Engineer who builds powerful CI/CD pipelines, automates cloud infrastructure, and ships production-ready systems.</h3>
 
 <table>
   <tr>
