@@ -9,7 +9,6 @@
     <li>📫 <strong>Reach me at:</strong> <a href="mailto:chamathrko@gmail.com">chamathrko@gmail.com</a></li>
   </ul>
 
-  <img src="https://tenor.com/view/eth-ethereum-gif-21354314.gif" width="200" alt="Ethereum GIF"/>
 </div>
 
 
