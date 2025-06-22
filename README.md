@@ -1,21 +1,16 @@
 <h1 align="center">👋 Hi, I’m Chamath – aka Pipelinelord 🛠️</h1>
 <h3 align="center">I'm a DevOps Engineer who builds powerful CI/CD pipelines, automates cloud infrastructure, and ships production-ready systems.</h3>
 
-<table style="width:100%; max-width:600px; border-collapse: collapse; font-family: Arial, sans-serif;">
-  <tr>
-    <td style="vertical-align: middle; padding: 10px;">
-      <ul style="list-style: none; padding-left: 0; font-size: 16px; line-height: 1.6; color: #333;">
-        <li>🚀 <strong>Currently building:</strong> <span style="color:#007acc;">"VERO" NFT Marketplace</span></li>
-        <li>🌱 <strong>Learning & experimenting:</strong> <span style="color:#ff6600;">Blockchain Development</span></li>
-        <li>🛠️ <strong>DevOps Enthusiast:</strong> Hands-on with <span style="color:#22863a;">Foundry, Docker, Kubernetes, CI/CD</span></li>
-        <li>📫 <strong>Reach me at:</strong> <a href="mailto:chamathrko@gmail.com" style="color:#0366d6; text-decoration:none;">chamathrko@gmail.com</a></li>
-      </ul>
-    </td>
-    <td style="vertical-align: middle; text-align: center; padding: 10px;">
-      <img src="https://tenor.com/view/eth-ethereum-gif-21354314.gif" width="200" alt="Ethereum GIF" style="border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <ul align="left">
+    <li>🚀 <strong>Currently building:</strong> <span style="color:#007acc;">"VERO" NFT Marketplace</span></li>
+    <li>🌱 <strong>Learning & experimenting:</strong> <span style="color:#ff6600;">Smart Contracts & Web3</span></li>
+    <li>🛠️ <strong>DevOps Enthusiast:</strong> Hands-on with <code>Docker</code>, <code>Kubernetes</code>, <code>CI/CD</code>, <code>Foundry</code>, and more</li>
+    <li>📫 <strong>Reach me at:</strong> <a href="mailto:chamathrko@gmail.com">chamathrko@gmail.com</a></li>
+  </ul>
+
+  <img src="https://tenor.com/view/eth-ethereum-gif-21354314.gif" width="200" alt="Ethereum GIF"/>
+</div>
 
 
 
