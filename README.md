@@ -45,7 +45,11 @@
                                       
                                                     
   </pre>
-  <p align="center"> 🛠️  PIPES • CONTAINERS • CLOUD ☁️</p>
+  <p align="center"> <pre>
+    🛠️  PIPES • CONTAINERS • CLOUD ☁️
+      
+    
+</pre>
 </p>
 </div>
 
